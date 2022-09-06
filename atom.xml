@@ -6,7 +6,7 @@
   <link href="https://beckonhuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://beckonhuang.github.io/"/>
-  <updated>2022-09-05T13:47:51.287Z</updated>
+  <updated>2022-09-06T13:44:22.164Z</updated>
   <id>https://beckonhuang.github.io/</id>
   
   <author>
@@ -17,27 +17,53 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2022-09-06 记事</title>
+    <link href="https://beckonhuang.github.io/2022/09/06/2022-09-06/"/>
+    <id>https://beckonhuang.github.io/2022/09/06/2022-09-06/</id>
+    <published>2022-09-06T13:06:50.000Z</published>
+    <updated>2022-09-06T13:44:22.164Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2022年9月6日-记事"><a href="#2022年9月6日-记事" class="headerlink" title="2022年9月6日 记事"></a>2022年9月6日 记事</h2><h3 id="完成事项"><a href="#完成事项" class="headerlink" title="完成事项"></a>完成事项</h3><ol><li>Algorithmics, 3rd Edition The Spirit of Computing (David Harel, Yishai Feldman): P12-P19, 读完耗时1.5小时左右，包括英语摘抄29句</li><li>整理了英语学习用的一些资料和 app，制定计划，做了一些口语练习和测试</li><li>班会2.5小时</li><li>日程整理及杂务咨询</li></ol><h3 id="学习笔记"><a href="#学习笔记" class="headerlink" title="学习笔记"></a>学习笔记</h3><ol><li>D.H. 写的 Algorithmics 在简介说：<ol><li>要避免其它计算机书中常犯的 “bit&#x2F;byte syndrome” 与 “semicolon syndrome”, 确实这类写法容易使书籍丧失可读性，非计算机背景的人容易看不懂</li><li>Chapter 4 到 Chapter 9 历经三版二十年几乎没有更改，在之后学习中要重点掌握</li><li>DH 提到，量子计算、Shor 的因子分解算法与分子计算都是并行化 (Parrallelism) 的一种延伸</li><li>DH 认为，近 20 年来经典算法领域最重要的发展至少包括这三个: NP 完全问题的不可逼近性结果，Shor 的量子多项式时间因子分解算法和 AKS 多项式时间素性测试，原话如下：<ul><li>the nonapproximability results for NP-complete problems, Shor’s quantum polynomial time factoring algorithm, and the AKS polynomial-time primality test</li></ul></li></ol></li></ol><h3 id="总结收获"><a href="#总结收获" class="headerlink" title="总结收获"></a>总结收获</h3><ol><li>英语口语测试结果我的语音、语调还行，但是节奏和连读基本没分，在之后的练习中要特别注意这两个部分的训练。</li><li>以后每天中午和晚上吃饭再定时看消息看群聊，其他时间没事都不看了，信息密度太低，比较浪费时间</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2022年9月6日-记事&quot;&gt;&lt;a href=&quot;#2022年9月6日-记事&quot; class=&quot;headerlink&quot; title=&quot;2022年9月6日 记事&quot;&gt;&lt;/a&gt;2022年9月6日 记事&lt;/h2&gt;&lt;h3 id=&quot;完成事项&quot;&gt;&lt;a href=&quot;#完成事项&quot; cla</summary>
+      
+    
+    
+    
+    <category term="记事" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/"/>
+    
+    <category term="2022年" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022%E5%B9%B4/"/>
+    
+    <category term="2022年9月" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022%E5%B9%B4/2022%E5%B9%B49%E6%9C%88/"/>
+    
+    
+    <category term="记事" scheme="https://beckonhuang.github.io/tags/%E8%AE%B0%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://beckonhuang.github.io/2022/09/05/my-hello-world/"/>
     <id>https://beckonhuang.github.io/2022/09/05/my-hello-world/</id>
     <published>2022-09-05T08:26:39.000Z</published>
-    <updated>2022-09-05T13:47:51.287Z</updated>
+    <updated>2022-09-06T13:44:21.297Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2022/09/05/my-hello-world/sora-1.jpeg"></p><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/sora-1.jpeg"></p><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/09/05/my-hello-world/sora-1.jpeg&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. C</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/sora-1.jpeg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https</summary>
       
     
     
     
-    <category term="Diary" scheme="https://beckonhuang.github.io/categories/Diary/"/>
+    <category term="你好，世界" scheme="https://beckonhuang.github.io/categories/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/"/>
     
-    
-    <category term="Hello, World" scheme="https://beckonhuang.github.io/tags/Hello-World/"/>
     
     <category term="你好，世界" scheme="https://beckonhuang.github.io/tags/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/"/>
     
