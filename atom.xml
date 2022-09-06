@@ -6,7 +6,7 @@
   <link href="https://beckonhuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://beckonhuang.github.io/"/>
-  <updated>2022-09-06T13:44:22.164Z</updated>
+  <updated>2022-09-06T13:47:55.694Z</updated>
   <id>https://beckonhuang.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://beckonhuang.github.io/2022/09/06/2022-09-06/"/>
     <id>https://beckonhuang.github.io/2022/09/06/2022-09-06/</id>
     <published>2022-09-06T13:06:50.000Z</published>
-    <updated>2022-09-06T13:44:22.164Z</updated>
+    <updated>2022-09-06T13:47:55.694Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="2022年9月6日-记事"><a href="#2022年9月6日-记事" class="headerlink" title="2022年9月6日 记事"></a>2022年9月6日 记事</h2><h3 id="完成事项"><a href="#完成事项" class="headerlink" title="完成事项"></a>完成事项</h3><ol><li>Algorithmics, 3rd Edition The Spirit of Computing (David Harel, Yishai Feldman): P12-P19, 读完耗时1.5小时左右，包括英语摘抄29句</li><li>整理了英语学习用的一些资料和 app，制定计划，做了一些口语练习和测试</li><li>班会2.5小时</li><li>日程整理及杂务咨询</li></ol><h3 id="学习笔记"><a href="#学习笔记" class="headerlink" title="学习笔记"></a>学习笔记</h3><ol><li>D.H. 写的 Algorithmics 在简介说：<ol><li>要避免其它计算机书中常犯的 “bit&#x2F;byte syndrome” 与 “semicolon syndrome”, 确实这类写法容易使书籍丧失可读性，非计算机背景的人容易看不懂</li><li>Chapter 4 到 Chapter 9 历经三版二十年几乎没有更改，在之后学习中要重点掌握</li><li>DH 提到，量子计算、Shor 的因子分解算法与分子计算都是并行化 (Parrallelism) 的一种延伸</li><li>DH 认为，近 20 年来经典算法领域最重要的发展至少包括这三个: NP 完全问题的不可逼近性结果，Shor 的量子多项式时间因子分解算法和 AKS 多项式时间素性测试，原话如下：<ul><li>the nonapproximability results for NP-complete problems, Shor’s quantum polynomial time factoring algorithm, and the AKS polynomial-time primality test</li></ul></li></ol></li></ol><h3 id="总结收获"><a href="#总结收获" class="headerlink" title="总结收获"></a>总结收获</h3><ol><li>英语口语测试结果我的语音、语调还行，但是节奏和连读基本没分，在之后的练习中要特别注意这两个部分的训练。</li><li>以后每天中午和晚上吃饭再定时看消息看群聊，其他时间没事都不看了，信息密度太低，比较浪费时间</li></ol>]]></content>
+    <content type="html"><![CDATA[<h2 id="2022年9月6日-记事"><a href="#2022年9月6日-记事" class="headerlink" title="2022年9月6日 记事"></a>2022年9月6日 记事</h2><h3 id="完成事项"><a href="#完成事项" class="headerlink" title="完成事项"></a>完成事项</h3><ol><li>Algorithmics, 3rd Edition The Spirit of Computing (David Harel, Yishai Feldman): P12-P19, 读完耗时1.5小时左右，包括英语摘抄29句</li><li>整理了英语学习用的一些资料和 app，制定计划，做了一些口语练习和测试</li><li>班会2.5小时</li><li>日程整理及杂务咨询</li></ol><h3 id="学习笔记"><a href="#学习笔记" class="headerlink" title="学习笔记"></a>学习笔记</h3><ol><li>D.H. 写的 Algorithmics 在简介说：<ol><li>要避免其它计算机书中常犯的 “bit&#x2F;byte syndrome” 与 “semicolon syndrome”, 确实这类写法容易使书籍丧失可读性，非计算机背景的人容易看不懂</li><li>Chapter 4 到 Chapter 9 历经三版二十年几乎没有更改，在之后学习中要重点掌握</li><li>DH 提到，量子计算、Shor 的因子分解算法与分子计算都是并行化 (Parrallelism) 的一种延伸</li><li>DH 认为，近 20 年来经典算法领域最重要的发展至少包括这三个: NP 完全问题的不可逼近性结果，Shor 的量子多项式时间因子分解算法和 AKS 多项式时间素性测试，原话如下：<ul><li><strong>Now that the revision is done, if hard-pressed to give my list of the most significant developments in pure, “classical” algorithmics (i.e., excluding software and systems engineering) in the last dozen or so years, it would probably contain three: the nonapproximability results for NP-complete problems, Shor’s quantum polynomial time factoring algorithm, and the AKS polynomial-time primality test. And all I can say about these is this: wouldn’t it be wonderful if the bulk of the work on the next edition of this book—if and when, of course—will be spent on results of similar caliber and importance.</strong></li></ul></li></ol></li></ol><h3 id="总结收获"><a href="#总结收获" class="headerlink" title="总结收获"></a>总结收获</h3><ol><li>英语口语测试结果我的语音、语调还行，但是节奏和连读基本没分，在之后的练习中要特别注意这两个部分的训练。</li><li>以后每天中午和晚上吃饭再定时看消息看群聊，其他时间没事都不看了，信息密度太低，比较浪费时间</li></ol>]]></content>
     
     
       
