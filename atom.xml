@@ -6,7 +6,7 @@
   <link href="https://beckonhuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://beckonhuang.github.io/"/>
-  <updated>2022-09-15T14:06:53.166Z</updated>
+  <updated>2022-09-16T13:16:03.077Z</updated>
   <id>https://beckonhuang.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Fri Sep 16 2022 08:00:00 GMT+0800 (中国标准时间)</title>
+    <link href="https://beckonhuang.github.io/2022/09/16/2022-09-16/"/>
+    <id>https://beckonhuang.github.io/2022/09/16/2022-09-16/</id>
+    <published>2022-09-16T13:09:01.000Z</published>
+    <updated>2022-09-16T13:16:03.077Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2022年9月8日-记事"><a href="#2022年9月8日-记事" class="headerlink" title="2022年9月8日 记事"></a>2022年9月8日 记事</h2><h3 id="完成事项"><a href="#完成事项" class="headerlink" title="完成事项"></a>完成事项</h3><ol><li>坐牢第一天，上午处理杂务。</li><li>下午研究了一下 Counterfeit Coin Puzzle。</li></ol><h3 id="学习笔记"><a href="#学习笔记" class="headerlink" title="学习笔记"></a>学习笔记</h3><ol><li>无。</li></ol><h3 id="总结收获"><a href="#总结收获" class="headerlink" title="总结收获"></a>总结收获</h3><ol><li>Counterfeit Coin Puzzle 这个问题原始并不复杂，但是后面的一些变种非常有趣，尤其是加上安全性，博弈方面的考量之后，问题也变得挺有意思。没想到 2015 年还有人拿这个问题挂 arxiv 上，明天研读完搜集到手里的几篇后有空再写个总结。</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2022年9月8日-记事&quot;&gt;&lt;a href=&quot;#2022年9月8日-记事&quot; class=&quot;headerlink&quot; title=&quot;2022年9月8日 记事&quot;&gt;&lt;/a&gt;2022年9月8日 记事&lt;/h2&gt;&lt;h3 id=&quot;完成事项&quot;&gt;&lt;a href=&quot;#完成事项&quot; cla</summary>
+      
+    
+    
+    
+    <category term="记事" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/"/>
+    
+    <category term="2022年" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022%E5%B9%B4/"/>
+    
+    <category term="2022年9月" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022%E5%B9%B4/2022%E5%B9%B49%E6%9C%88/"/>
+    
+    
+    <category term="记事" scheme="https://beckonhuang.github.io/tags/%E8%AE%B0%E4%BA%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>Thu Sep 15 2022 08:00:00 GMT+0800 (中国标准时间)</title>
@@ -73,11 +101,11 @@
   </entry>
   
   <entry>
-    <title>2020-09-10 记事</title>
-    <link href="https://beckonhuang.github.io/2022/09/10/2020-09-10/"/>
-    <id>https://beckonhuang.github.io/2022/09/10/2020-09-10/</id>
+    <title>2022-09-10 记事</title>
+    <link href="https://beckonhuang.github.io/2022/09/10/2022-09-10/"/>
+    <id>https://beckonhuang.github.io/2022/09/10/2022-09-10/</id>
     <published>2022-09-10T12:31:00.000Z</published>
-    <updated>2022-09-10T12:42:31.376Z</updated>
+    <updated>2022-09-16T13:14:52.966Z</updated>
     
     <content type="html"><![CDATA[<h2 id="2022年9月8日-记事"><a href="#2022年9月8日-记事" class="headerlink" title="2022年9月8日 记事"></a>2022年9月8日 记事</h2><h3 id="完成事项"><a href="#完成事项" class="headerlink" title="完成事项"></a>完成事项</h3><ol><li>Reading, Writing, and Proving A Closer Look at Mathematics 2nd Edition Springer, 2010 (Ulrich Daepp, Pamela Gorkin (auth.)) : P18-P27 (Chapter 1), 读完耗时4小时左右，包括英语摘抄1句、13道书上习题与9道其他习题。</li></ol><h3 id="学习笔记"><a href="#学习笔记" class="headerlink" title="学习笔记"></a>学习笔记</h3><ol><li>U.D. 这一章主要提出的是一个类似方法论的解决问题思路：<ol><li>Understanding the problem.</li><li>Devising a plan.</li><li>Carrying out the plan.</li><li>Looking back.</li></ol></li><li>除此之外理论与习题部分非常简单，反而是课件上的那2道思考题很有意思，虽然能很轻松地想出算法，但是如何证明这种算法是最优的想了很久。可能还不一定正确，就像 U.D. 说的那样，“Sometimes it is difficult to catch an error right after you have ‘found a solution’. Put the problem down and come back to it a few hours later”. 我打算明天再来检查一下自己的证明过程。</li></ol><h3 id="总结收获"><a href="#总结收获" class="headerlink" title="总结收获"></a>总结收获</h3><ol><li>果然这种数学书读起来没有词汇障碍就轻松很多了，能留下更多的思考时间也挺好的。</li></ol>]]></content>
     
@@ -94,6 +122,8 @@
     <category term="2022年" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022%E5%B9%B4/"/>
     
     <category term="2022年9月" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022%E5%B9%B4/2022%E5%B9%B49%E6%9C%88/"/>
+    
+    <category term="UD" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022%E5%B9%B4/2022%E5%B9%B49%E6%9C%88/UD/"/>
     
     
     <category term="记事" scheme="https://beckonhuang.github.io/tags/%E8%AE%B0%E4%BA%8B/"/>
@@ -133,7 +163,7 @@
     <link href="https://beckonhuang.github.io/2022/09/08/2022-09-08/"/>
     <id>https://beckonhuang.github.io/2022/09/08/2022-09-08/</id>
     <published>2022-09-08T12:22:08.000Z</published>
-    <updated>2022-09-08T13:12:06.251Z</updated>
+    <updated>2022-09-16T13:14:47.785Z</updated>
     
     <content type="html"><![CDATA[<h2 id="2022年9月8日-记事"><a href="#2022年9月8日-记事" class="headerlink" title="2022年9月8日 记事"></a>2022年9月8日 记事</h2><h3 id="完成事项"><a href="#完成事项" class="headerlink" title="完成事项"></a>完成事项</h3><ol><li>Reading, Writing, and Proving A Closer Look at Mathematics 2nd Edition Springer, 2010 (Ulrich Daepp, Pamela Gorkin (auth.)) : P8-P17 (Preface), 读完耗时1小时左右，包括英语摘抄5句</li><li>注册了两个 Onedrive 账号并尝试解决 Onedrive 同步问题3小时</li><li>娱乐5小时</li></ol><h3 id="学习笔记"><a href="#学习笔记" class="headerlink" title="学习笔记"></a>学习笔记</h3><ol><li>U.D. 写的 Preface 中需注意的内容包括:<ol><li>从作者推荐来看，第13、19、20、25、26章偏分析视角，较难；第27、28章偏代数视角，较难。其他章节为基础必须掌握。</li><li>本书的证明以“$$\square$$”结尾，例子或练习以“$$\bigcirc$$”结尾，如果正文中还要用到的问题将被命名为“$$Problem^#$$”，有问题或不完整的证明将以带方框的“？”结尾。（P.S. google了半小时没找到怎么用 hexo 里的 mathjava 支持包打出来这种样式的符号”）</li></ol></li></ol><h3 id="总结收获"><a href="#总结收获" class="headerlink" title="总结收获"></a>总结收获</h3><ol><li>Onedrive个人版账户只能与另一个个人版账户同步文件，而企业版&#x2F;教育版账户只能与同一组织机构下的邮箱账户同步文件夹，踩坑了半天发现根本解决不了。</li><li>精神状况不太好，效率比较低下，明天调整</li></ol>]]></content>
     
@@ -151,6 +181,8 @@
     
     <category term="2022年9月" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022%E5%B9%B4/2022%E5%B9%B49%E6%9C%88/"/>
     
+    <category term="UD" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022%E5%B9%B4/2022%E5%B9%B49%E6%9C%88/UD/"/>
+    
     
     <category term="记事" scheme="https://beckonhuang.github.io/tags/%E8%AE%B0%E4%BA%8B/"/>
     
@@ -161,7 +193,7 @@
     <link href="https://beckonhuang.github.io/2022/09/07/2022-09-07/"/>
     <id>https://beckonhuang.github.io/2022/09/07/2022-09-07/</id>
     <published>2022-09-07T12:57:05.000Z</published>
-    <updated>2022-09-08T13:12:15.189Z</updated>
+    <updated>2022-09-16T13:14:38.615Z</updated>
     
     <content type="html"><![CDATA[<h2 id="2022年9月7日-记事"><a href="#2022年9月7日-记事" class="headerlink" title="2022年9月7日 记事"></a>2022年9月7日 记事</h2><h3 id="完成事项"><a href="#完成事项" class="headerlink" title="完成事项"></a>完成事项</h3><ol><li>Algorithmics, The Spirit of Computing 3rd Edition (David Harel, Yishai Feldman): P20-P37 (Chapter 1), 读完耗时4小时左右，包括英语摘抄38句</li><li>选课3小时</li></ol><h3 id="学习笔记"><a href="#学习笔记" class="headerlink" title="学习笔记"></a>学习笔记</h3><ol><li>D.H. 写的 Algorithmics 第一章为 Introduction and Historical Review, 主要内容包括:<ol><li>以类比的方法介绍了 algorithm 是什么。本书的写作对象包括非计算机背景的初学者读者，因此花了大量篇幅去解释了一些类似于软件、硬件、输入、输出、基本运算指令、抽象、抽象层次的基础概念。</li><li>比较有意思的一段介绍 algorithm 的比喻摘录:<ul><li>Imagine a kitchen, containing a supply of ingredients, an array of baking utensils, an oven, and a (human) baker. Baking a delicious raisin cake is a process that is carried out from the ingredients, by the baker, with the aid of the oven, and, most significantly, according to the recipe. The ingredients are the <em><strong>inputs</strong></em> to the process, the cake is its <em><strong>output</strong></em>, and the recipe is the <em><strong>algorithm</strong></em>. In other words, the algorithm prescribes the activities that constitute the process. The recipes, or algorithms, relevant to a set of processes under discussion are generally called <em><strong>software</strong></em>, whereas utensils and oven represent what is generally known as <em><strong>hardware</strong></em>. The baker, in this case, can be considered a part of the hardware.</li></ul></li><li>阐释了 算法学 (Algorithmics) 与计算机科学的一些联系与区别。介绍了当时存在的一些对 “计算机” 科学这个词汇中 “计算机” 这个前缀的争议。当然，这并不是本书的重点，D.H.也说到:<ul><li>“However, it is generally agreed that the term “computer science” is misleading, and that something like “information science,” “process science,” or “the science of the discrete” might be better. Again, we only claim that our subject matter, algorithmics, forms the underpinnings of computer science, not that it replaces it.”</li></ul></li><li>解释了一个算法学问题 (a computational or algorithmics problem) 与一个具体算法 (an algorithm) 的区别，举例来说：<ul><li>Keeping illegal inputs separate is the responsibility of the algorithmic problem, while treating special classes of unusual or undesirable inputs is the responsibility of the algorithm itself.</li></ul></li><li>介绍了一些当时计算机尚不能处理的问题，比如图像识别，迁移学习，强化学习一类的涉及到认知，学习，推理能力的问题。有趣的是，接近20年后回过头来看，这些问题基本都是当下ai研究的热点。</li><li>总结了一个很粗浅的算法学问题的基本模型:<ul><li>To summarize, an algorithmic problem consists of:<ul><li>A characterization of a legal, possibly infinite, collection of potential input sets, and</li><li>A specification of the desired outputs as a function of the inputs.</li></ul></li></ul></li></ol></li></ol><h3 id="总结收获"><a href="#总结收获" class="headerlink" title="总结收获"></a>总结收获</h3><ol><li>D.H. 的书前面写得非常粗浅，之所以看得那么慢是因为他第一章非常喜欢举一些烹饪相关的例子，然后这些英语单词全部打中我的词汇盲区，基本上是看一句查一句。看完感觉没有什么干货，但是我的英语菜谱阅读能力有了突飞猛进的提升（笑)。后面不讲做菜了果然几分钟就看完了。</li><li>D.H. 的书中间有两页讲历史的留作了晨读的阅读材料，因为查人名和他的中文译名对上花的时间比菜谱更多，过程也更痛苦，正好留作清晨练英语的材料。</li></ol>]]></content>
     
@@ -179,6 +211,8 @@
     
     <category term="2022年9月" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022%E5%B9%B4/2022%E5%B9%B49%E6%9C%88/"/>
     
+    <category term="DH" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022%E5%B9%B4/2022%E5%B9%B49%E6%9C%88/DH/"/>
+    
     
     <category term="记事" scheme="https://beckonhuang.github.io/tags/%E8%AE%B0%E4%BA%8B/"/>
     
@@ -189,7 +223,7 @@
     <link href="https://beckonhuang.github.io/2022/09/06/2022-09-06/"/>
     <id>https://beckonhuang.github.io/2022/09/06/2022-09-06/</id>
     <published>2022-09-06T13:06:50.000Z</published>
-    <updated>2022-09-08T13:12:29.349Z</updated>
+    <updated>2022-09-16T13:14:43.648Z</updated>
     
     <content type="html"><![CDATA[<h2 id="2022年9月6日-记事"><a href="#2022年9月6日-记事" class="headerlink" title="2022年9月6日 记事"></a>2022年9月6日 记事</h2><h3 id="完成事项"><a href="#完成事项" class="headerlink" title="完成事项"></a>完成事项</h3><ol><li>Algorithmics, The Spirit of Computing 3rd Edition (David Harel, Yishai Feldman): P12-P19, 读完耗时1.5小时左右，包括英语摘抄29句</li><li>整理了英语学习用的一些资料和 app，制定计划，做了一些口语练习和测试</li><li>班会2.5小时</li><li>日程整理及杂务咨询</li></ol><h3 id="学习笔记"><a href="#学习笔记" class="headerlink" title="学习笔记"></a>学习笔记</h3><ol><li>D.H. 写的 Algorithmics 在简介说：<ol><li>要避免其它计算机书中常犯的 “bit&#x2F;byte syndrome” 与 “semicolon syndrome”, 确实这类写法容易使书籍丧失可读性，非计算机背景的人容易看不懂</li><li>Chapter 4 到 Chapter 9 历经三版二十年几乎没有更改，在之后学习中要重点掌握</li><li>DH 提到，量子计算、Shor 的因子分解算法与分子计算都是并行化 (Parrallelism) 的一种延伸</li><li>DH 认为，近 20 年来经典算法领域最重要的发展至少包括这三个: NP 完全问题的不可逼近性结果，Shor 的量子多项式时间因子分解算法和 AKS 多项式时间素性测试，原话如下：<ul><li><strong>Now that the revision is done, if hard-pressed to give my list of the most significant developments in pure, “classical” algorithmics (i.e., excluding software and systems engineering) in the last dozen or so years, it would probably contain three: the nonapproximability results for NP-complete problems, Shor’s quantum polynomial time factoring algorithm, and the AKS polynomial-time primality test. And all I can say about these is this: wouldn’t it be wonderful if the bulk of the work on the next edition of this book—if and when, of course—will be spent on results of similar caliber and importance.</strong></li></ul></li></ol></li></ol><h3 id="总结收获"><a href="#总结收获" class="headerlink" title="总结收获"></a>总结收获</h3><ol><li>英语口语测试结果我的语音、语调还行，但是节奏和连读基本没分，在之后的练习中要特别注意这两个部分的训练。</li><li>以后每天中午和晚上吃饭再定时看消息看群聊，其他时间没事都不看了，信息密度太低，比较浪费时间</li></ol>]]></content>
     
@@ -206,6 +240,8 @@
     <category term="2022年" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022%E5%B9%B4/"/>
     
     <category term="2022年9月" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022%E5%B9%B4/2022%E5%B9%B49%E6%9C%88/"/>
+    
+    <category term="DH" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022%E5%B9%B4/2022%E5%B9%B49%E6%9C%88/DH/"/>
     
     
     <category term="记事" scheme="https://beckonhuang.github.io/tags/%E8%AE%B0%E4%BA%8B/"/>
