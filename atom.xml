@@ -6,7 +6,7 @@
   <link href="https://beckonhuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://beckonhuang.github.io/"/>
-  <updated>2022-09-18T13:37:17.018Z</updated>
+  <updated>2022-09-19T13:32:05.312Z</updated>
   <id>https://beckonhuang.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022-09-19 记事</title>
+    <link href="https://beckonhuang.github.io/2022/09/19/2022-09-19/"/>
+    <id>https://beckonhuang.github.io/2022/09/19/2022-09-19/</id>
+    <published>2022-09-18T23:51:27.000Z</published>
+    <updated>2022-09-19T13:32:05.312Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2022-年-9-月-18-日-记事">2022 年 9 月 18 日 记事</h2><h3 id="完成事项">完成事项</h3><ol><li>How to ask questions the smart way 阅读完毕。</li><li>MIT Missing Semester 看了个开头。</li><li>OJ 作业完成。</li></ol><h3 id="学习笔记">学习笔记</h3><ol><li>How to ask questions the smart way(<a href="https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md">见这里</a>):<ol><li>Stack Exchange 社区:<ol><li>Super User：通用电脑提问</li><li>Stack Overflow 程序相关</li><li>Server Fault 服务器和网管相关</li></ol></li><li>特定 Linux 发行版本的问题使用发邮件，网页论坛，IRC 频道</li><li>英语论坛中不要使用 Quoted-Printable MIME 编码发送消息，这对于 ASCII 来说是不必要的，不要在开源社区使用用 Word 或 Excel 编写的文件。</li></ol></li><li>MIT Missing Semester(<a href="https://missing.csail.mit.edu/2020/course-shell/">见这里</a>)</li></ol><h3 id="总结收获">总结收获</h3><ol><li>搜索了一些跟research有关的资料和paper，感觉选方向还是有点苦手。不知道是不是还要继续做ai，感觉很迷茫。总之还是先多学点数学吧。</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2022-年-9-月-18-日-记事&quot;&gt;2022 年 9 月 18 日 记事&lt;/h2&gt;
+&lt;h3 id=&quot;完成事项&quot;&gt;完成事项&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;How to ask questions the smart way 阅读完毕。&lt;/li&gt;
+&lt;li&gt;MIT M</summary>
+      
+    
+    
+    
+    <category term="记事" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/"/>
+    
+    <category term="2022 年" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022-%E5%B9%B4/"/>
+    
+    <category term="2022 年 9 月" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022-%E5%B9%B4/2022-%E5%B9%B4-9-%E6%9C%88/"/>
+    
+    
+    <category term="记事" scheme="https://beckonhuang.github.io/tags/%E8%AE%B0%E4%BA%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>2022-09-18 记事</title>
