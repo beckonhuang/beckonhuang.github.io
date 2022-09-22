@@ -6,7 +6,7 @@
   <link href="https://beckonhuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://beckonhuang.github.io/"/>
-  <updated>2022-09-20T14:01:07.482Z</updated>
+  <updated>2022-09-22T13:59:03.055Z</updated>
   <id>https://beckonhuang.github.io/</id>
   
   <author>
@@ -17,11 +17,46 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2022-09-22 记事</title>
+    <link href="https://beckonhuang.github.io/2022/09/22/2022-09-22/"/>
+    <id>https://beckonhuang.github.io/2022/09/22/2022-09-22/</id>
+    <published>2022-09-22T13:57:29.000Z</published>
+    <updated>2022-09-22T13:59:03.055Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2022-年-9-月-22-日-记事">2022 年 9 月 22 日 记事</h2><h3 id="完成事项">完成事项</h3><ol><li>润了。</li></ol><h3 id="学习笔记">学习笔记</h3><ol><li>无。</li></ol><h3 id="总结收获">总结收获</h3><ol><li>昨天收拾了下东西，今天忙了一天终于润到学校收拾完了。累。</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2022-年-9-月-22-日-记事&quot;&gt;2022 年 9 月 22 日 记事&lt;/h2&gt;
+&lt;h3 id=&quot;完成事项&quot;&gt;完成事项&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;润了。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;学习笔记&quot;&gt;学习笔记&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;无。&lt;/li&gt;</summary>
+      
+    
+    
+    
+    <category term="记事" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/"/>
+    
+    <category term="2022 年" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022-%E5%B9%B4/"/>
+    
+    <category term="2022 年 9 月" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022-%E5%B9%B4/2022-%E5%B9%B4-9-%E6%9C%88/"/>
+    
+    
+    <category term="记事" scheme="https://beckonhuang.github.io/tags/%E8%AE%B0%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2022-09-20 记事</title>
     <link href="https://beckonhuang.github.io/2022/09/20/2022-09-20/"/>
     <id>https://beckonhuang.github.io/2022/09/20/2022-09-20/</id>
     <published>2022-09-20T13:42:31.000Z</published>
-    <updated>2022-09-20T14:01:07.482Z</updated>
+    <updated>2022-09-22T13:57:48.259Z</updated>
     
     <content type="html"><![CDATA[<h2 id="2022-年-9-月-20-日-记事">2022 年 9 月 20 日 记事</h2><h3 id="完成事项">完成事项</h3><ol><li>LaTex 模板写作 2 小时。</li><li>英语模仿阅读练习 1 小时。</li><li>课程 6 小时。</li></ol><h3 id="学习笔记">学习笔记</h3><ol><li><p>LaTex 改变标题与正文行距 (<a href="https://tex.stackexchange.com/questions/190834/reducing-the-space-between-the-title-and-the-first-line-of-the-the-abstract-in">原文</a>):<br><br>“As has been pointed out in the comments, changing the appearance of a journal template is discouraged. A journal wants to have a consistent look. <br><br>If you are absolutely sure you want to change something, you can do some kind of a hack (Dr. Christian Hupfer pointed it out). In the example below, i introduced some positive space to get the text away from the title; using negative space you get the text closer to the title.”</p><figure class="highlight latex"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">\documentclass</span>[10pt,conference]&#123;IEEEtran&#125;<span class="keyword">\title</span>&#123;Some Title<span class="keyword">\vspace</span>&#123;6em&#125;&#125;</span><br><span class="line"><span class="keyword">\author</span>&#123;&#125;</span><br><span class="line"><span class="keyword">\usepackage</span>&#123;blindtext&#125;</span><br><span class="line"><span class="keyword">\begin</span>&#123;document&#125;</span><br><span class="line"><span class="keyword">\maketitle</span></span><br><span class="line"><span class="keyword">\begin</span>&#123;abstract&#125;</span><br><span class="line">  <span class="keyword">\blindtext</span></span><br><span class="line"><span class="keyword">\end</span>&#123;abstract&#125;</span><br><span class="line"><span class="keyword">\blindtext</span>[2]</span><br><span class="line"><span class="keyword">\end</span>&#123;document&#125;</span><br></pre></td></tr></table></figure></li><li><p>我的书面作业的 LaTex 模板来源: <a href="https://www.youtube.com/watch?v=L__vTCwsimU">Writting Math in LaTex</a></p></li></ol><h3 id="总结收获">总结收获</h3><ol><li>精力不够充沛，白天睡了 3 小时，娱乐 3 小时左右，继续调整。感觉一天没有做多少事情就过去了。</li></ol>]]></content>
     
