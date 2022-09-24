@@ -6,7 +6,7 @@
   <link href="https://beckonhuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://beckonhuang.github.io/"/>
-  <updated>2022-09-22T13:59:03.055Z</updated>
+  <updated>2022-09-24T15:32:20.856Z</updated>
   <id>https://beckonhuang.github.io/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022-09-24 记事</title>
+    <link href="https://beckonhuang.github.io/2022/09/24/2022-09-24/"/>
+    <id>https://beckonhuang.github.io/2022/09/24/2022-09-24/</id>
+    <published>2022-09-24T15:21:17.000Z</published>
+    <updated>2022-09-24T15:32:20.856Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2022-年-9-月-24-日-记事">2022 年 9 月 24 日 记事</h2><h3 id="完成事项">完成事项</h3><ol><li>UD 第 2 章，耗时 3 小时。</li><li>杂事，耗时 4 小时。</li><li>UD Assignment，耗时 3 小时。</li></ol><h3 id="学习笔记">学习笔记</h3><ol><li>UD 这两章内容很简单，主要是记住一些专有名词的英语，列举如下：<ul><li>statement, statement form</li><li>disjunction, conjuction, implication</li><li>tautology, contradiction</li><li>antecedent, conclusion</li></ul></li><li>UD 这一章还需要注意的唯一一个点是，以下两句话均不是 statement:<ol><li>X + 6 = 0</li><li>This sentence is false.</li></ol></li></ol><h3 id="总结收获">总结收获</h3><ol><li>聊了一些科研有关的内容，阅读了 algorithmicx 的官方文档终于解决了 LaTex 的模板的排版还有伪代码格式问题，不过感觉很值得，这些都是早晚需要去踩的坑，虽然一个坑让我踩了差不多 4 天左右… 另外昨天晚上洗完澡太累了忘了写总结，还没有适应新环境的生活，总是做起事来就忘了一些时间点 orz。</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2022-年-9-月-24-日-记事&quot;&gt;2022 年 9 月 24 日 记事&lt;/h2&gt;
+&lt;h3 id=&quot;完成事项&quot;&gt;完成事项&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;UD 第 2 章，耗时 3 小时。&lt;/li&gt;
+&lt;li&gt;杂事，耗时 4 小时。&lt;/li&gt;
+&lt;li&gt;UD Assi</summary>
+      
+    
+    
+    
+    <category term="记事" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/"/>
+    
+    <category term="2022 年" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022-%E5%B9%B4/"/>
+    
+    <category term="2022 年 9 月" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022-%E5%B9%B4/2022-%E5%B9%B4-9-%E6%9C%88/"/>
+    
+    
+    <category term="记事" scheme="https://beckonhuang.github.io/tags/%E8%AE%B0%E4%BA%8B/"/>
+    
+    <category term="UD" scheme="https://beckonhuang.github.io/tags/UD/"/>
+    
+  </entry>
   
   <entry>
     <title>2022-09-22 记事</title>
