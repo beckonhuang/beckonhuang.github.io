@@ -6,7 +6,7 @@
   <link href="https://beckonhuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://beckonhuang.github.io/"/>
-  <updated>2022-09-29T14:20:02.739Z</updated>
+  <updated>2022-10-07T09:12:59.303Z</updated>
   <id>https://beckonhuang.github.io/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022-10-07 记事</title>
+    <link href="https://beckonhuang.github.io/2022/10/07/2022-10-07/"/>
+    <id>https://beckonhuang.github.io/2022/10/07/2022-10-07/</id>
+    <published>2022-10-07T08:37:09.000Z</published>
+    <updated>2022-10-07T09:12:59.303Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2022-年-10-月-7-日-记事">2022 年 10 月 7 日 记事</h2><h3 id="完成事项">完成事项</h3><ol><li>Reading, Writing, and Proving A Closer Look at Mathematics 2nd Edition Springer, 2010 (Ulrich Daepp, Pamela Gorkin (auth.)) : P13-P (Chapter 2-4), 9 月读完的, 今天终于有时间来整理一下笔记了</li><li>日常诸事若干不计</li></ol><h3 id="学习笔记">学习笔记</h3><ol><li>UD 这三章介绍了最基本的形式逻辑的一些概念，第二章需要注意的包括：<ol><li>statement 与 statement form 的区别</li><li>5 种自然语连接词:</li></ol><ul><li>Not <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi></mrow><annotation encoding="application/x-tex">P</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span></span></span></span></li><li><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi></mrow><annotation encoding="application/x-tex">P</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span></span></span></span> and <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Q</mi></mrow><annotation encoding="application/x-tex">Q</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span class="mord mathnormal">Q</span></span></span></span></li><li><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi></mrow><annotation encoding="application/x-tex">P</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span></span></span></span> or <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Q</mi></mrow><annotation encoding="application/x-tex">Q</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span class="mord mathnormal">Q</span></span></span></span></li><li>If <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi></mrow><annotation encoding="application/x-tex">P</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span></span></span></span>, then <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Q</mi></mrow><annotation encoding="application/x-tex">Q</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span class="mord mathnormal">Q</span></span></span></span></li><li><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi></mrow><annotation encoding="application/x-tex">P</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span></span></span></span> if and only if <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Q</mi></mrow><annotation encoding="application/x-tex">Q</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span class="mord mathnormal">Q</span></span></span></span></li></ul><ol start="3"><li>一些专有名词:</li></ol><ul><li>negation, disjunction, conjunction, implication, equivalence</li><li>tautology, contradiction</li></ul><ol start="4"><li>注意避免使用 “either…or”, 根据 UD 原文说法，The English language uses this construction ambiguously and the interpretation often depends on the context. Consider the following two statements:<ol><li>Either Peter or Paul ran in the race.（两个人都在跑）</li><li>You’re either with us or against us.（你只能选择两者之一）</li></ol></li><li>一个有趣的课上问题: 如何度量一个二元运算符表达信息的能力？比如‘同或’可以用来表示‘非’，‘与’和‘或’，那么‘同或’的表达能力就应该比这三者大。</li><li>练习: 尝试设计一个程序，能自动化简一个 statement form 到最简形式。</li></ol></li><li>第三章需要注意的包括：<ol><li>基本概念: converse, inverse, contrapositive.</li><li>不是所有 statement form 都有 converse，例如 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi><mo>∧</mo><mi>Q</mi></mrow><annotation encoding="application/x-tex">P \wedge Q</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">∧</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span class="mord mathnormal">Q</span></span></span></span> 就没有 converse</li></ol></li><li>第四章需要注意的包括：<ol><li>一些基本概念：<ul><li>universe (the domain of discourse)</li><li>universal quantifier, existential quantifier</li></ul></li><li><strong>The order of the quantifiers is very important.</strong></li></ol></li></ol><h3 id="总结收获">总结收获</h3><ol><li>明天整理这周阅读的 UD Chapter 5 &amp; 18 以及 ES Chapter 24</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;2022-年-10-月-7-日-记事&quot;&gt;2022 年 10 月 7 日 记事&lt;/h2&gt;
+&lt;h3 id=&quot;完成事项&quot;&gt;完成事项&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Reading, Writing, and Proving A Closer Look at Mathemat</summary>
+      
+    
+    
+    
+    <category term="记事" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/"/>
+    
+    <category term="2022 年" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022-%E5%B9%B4/"/>
+    
+    <category term="2022 年 10 月" scheme="https://beckonhuang.github.io/categories/%E8%AE%B0%E4%BA%8B/2022-%E5%B9%B4/2022-%E5%B9%B4-10-%E6%9C%88/"/>
+    
+    
+    <category term="记事" scheme="https://beckonhuang.github.io/tags/%E8%AE%B0%E4%BA%8B/"/>
+    
+    <category term="UD" scheme="https://beckonhuang.github.io/tags/UD/"/>
+    
+  </entry>
   
   <entry>
     <title>2022-09-29 记事</title>
